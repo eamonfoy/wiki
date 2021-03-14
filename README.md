@@ -71,6 +71,6 @@
 
 # ASP.Net core distributed cache
 1. [Distributed caching aspnet core redis](https://sahansera.dev/distributed-caching-aspnet-core-redis/)
-
-
+2. [Using Distributed Redis Cache with ASP.NET Core 3.1](https://tutexchange.com/using-distributed-redis-cache-with-asp-net-core-3-1/)
+3. [Building a conditional caching middleware instead of an attribute in ASP.NET Core 3.1](https://anthonygiretti.com/2020/05/03/buidling-a-conditional-caching-middleware-instead-of-an-attribute/)
 
