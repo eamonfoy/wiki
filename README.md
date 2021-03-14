@@ -68,3 +68,9 @@
 1. [CERTIFICATE AUTHENTICATION IN ASP.NET CORE 3.1](https://damienbod.com/2019/06/13/certificate-authentication-in-asp-net-core-3-0/)
 
 2. [Docker and cert store](https://github.com/gsoft-inc/dotnet-certificate-tool/tree/master/docker-example)
+
+# ASP.Net core distributed cache
+1. [Distributed caching aspnet core redis](https://sahansera.dev/distributed-caching-aspnet-core-redis/)
+
+
+
