@@ -78,4 +78,7 @@
 # ASP.net core running in Kubernetes
 1. [Series: Deploying ASP.NET Core applications to Kubernetes](https://andrewlock.net/series/deploying-asp-net-core-applications-to-kubernetes/)
 
+# ASP.net cryptography
+1. [SYMMETRIC AND ASYMMETRIC ENCRYPTION IN .NET CORE](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
+
 
