@@ -74,3 +74,8 @@
 2. [Using Distributed Redis Cache with ASP.NET Core 3.1](https://tutexchange.com/using-distributed-redis-cache-with-asp-net-core-3-1/)
 3. [Building a conditional caching middleware instead of an attribute in ASP.NET Core 3.1](https://anthonygiretti.com/2020/05/03/buidling-a-conditional-caching-middleware-instead-of-an-attribute/)
 
+
+# ASP.net core running in Kubernetes
+1. [Series: Deploying ASP.NET Core applications to Kubernetes](https://andrewlock.net/series/deploying-asp-net-core-applications-to-kubernetes/)
+
+
