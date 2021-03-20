@@ -1,4 +1,3 @@
-
 # Ansible
 
 1. [Installing Docker and Docker Compose on Ubuntu 20.04 with Ansible](https://graspingtech.com/install-docker-ansible/)
@@ -55,6 +54,7 @@
     - [ASP.NET Core SignalR & Worker Services - Part 2](https://www.youtube.com/watch?v=k7bDhk3daJE)
 
     TODO: Look at message pack for serilsing  the signalr messages which are very performat...
+4. [A complete SignalR with ASP Net Core example with WSS, Authentication, Nginx](https://kimsereyblog.blogspot.com/2018/07/signalr-with-asp-net-core.html)
 
 # IdentityServer4
 1.  [Angular OAuth2 OIDC Configuration with IdentityServer4](https://code-maze.com/angular-oauth2-oidc-configuration-identityserver4/)
