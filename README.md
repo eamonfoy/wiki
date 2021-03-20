@@ -26,6 +26,7 @@
 6. [How to maintain Session Persistence (Sticky Session) in Docker Swarm](http://www.littlebigextra.com/how-to-maintain-session-persistence-sticky-session-in-docker-swarm-with-multiple-containers/)
 
 7. [Smaller Docker Images for ASP.NET Core Apps](https://itnext.io/smaller-docker-images-for-asp-net-core-apps-bee4a8fd1277)
+8. [How to maintain Session Persistence (Sticky Session) in Docker Swarm](http://littlebigextra.com/how-to-maintain-session-persistence-sticky-session-in-docker-swarm-with-multiple-containers/)
 
 
 # SSL
