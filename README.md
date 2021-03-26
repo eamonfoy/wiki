@@ -90,3 +90,5 @@
 5. [Setting up an Authorization Server with OpenIddict - Part V - OpenID Connect](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-v-openid-connect-a8j)
 6. [Setting up an Authorization Server with OpenIddict - Part VI - Refresh tokens](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-vi-refresh-tokens-5669)
 
+# OpenID Connect & OAuth 2.0
+1. [OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier](https://www.youtube.com/watch?v=jeRALmfyoqg)
