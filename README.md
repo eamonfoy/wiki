@@ -82,4 +82,11 @@
 # ASP.net cryptography
 1. [SYMMETRIC AND ASYMMETRIC ENCRYPTION IN .NET CORE](https://damienbod.com/2020/08/19/symmetric-and-asymmetric-encryption-in-net-core/)
 
+# OpenIddict 
+1. [Setting up an Authorization Server with OpenIddict - Part I - Introduction](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-i-introduction-4jid)
+2. [Setting up an Authorization Server with OpenIddict - Part II - Create ASPNET project](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-ii-create-aspnet-project-4949)
+3. [Setting up an Authorization Server with OpenIddict - Part III - Client Credentials Flow](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-iii-client-credentials-flow-55lp)
+4. [Setting up an Authorization Server with OpenIddict - Part IV - Authorization Code Flow](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-iv-authorization-code-flow-3eh8)
+5. [Setting up an Authorization Server with OpenIddict - Part V - OpenID Connect](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-v-openid-connect-a8j)
+6. [Setting up an Authorization Server with OpenIddict - Part VI - Refresh tokens](https://dev.to/robinvanderknaap/setting-up-an-authorization-server-with-openiddict-part-vi-refresh-tokens-5669)
 
