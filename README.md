@@ -93,8 +93,9 @@
 # OpenID Connect & OAuth 2.0
 1. [OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier](https://www.youtube.com/watch?v=jeRALmfyoqg)
 
-# Voice and viseo chat options
+# Chat, voice chat options
 1. [cometchat](https://www.cometchat.com/pro-pricing)
+2. [Sendbird chat and calls](https://sendbird.com/features/chat-messaging)
 
 
 
