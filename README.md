@@ -92,3 +92,9 @@
 
 # OpenID Connect & OAuth 2.0
 1. [OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier](https://www.youtube.com/watch?v=jeRALmfyoqg)
+
+# Voice and viseo chat options
+1. [cometchat](https://www.cometchat.com/pro-pricing)
+
+
+
