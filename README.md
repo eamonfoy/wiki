@@ -96,6 +96,6 @@
 # Chat, voice chat options
 1. [cometchat](https://www.cometchat.com/pro-pricing)
 2. [Sendbird chat and calls](https://sendbird.com/features/chat-messaging)
-
+3. [talkjs](https://talkjs.com/)
 
 
