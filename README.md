@@ -97,7 +97,7 @@
 1. [cometchat](https://www.cometchat.com/pro-pricing)
 2. [Sendbird chat and calls](https://sendbird.com/features/chat-messaging)
 3. [talkjs](https://talkjs.com/)
-4. [Pusher, chat and push notifications](https://pusher.com/channels/pricing)
+4. [Stream, chat and push notifications](https://getstream.io/)
 
 
 # Ionic Push notifications
