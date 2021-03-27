@@ -99,6 +99,7 @@
 3. [talkjs](https://talkjs.com/)
 4. [Stream, chat and push notifications](https://getstream.io/)
 5. [pubnub.com supports char and push notifications](https://www.pubnub.com/pricing/)
+6. [Video call with WebRTC Angular and ASP.NET Core ](https://dev.to/sebalr/video-call-with-webrtc-angular-and-asp-net-core-39hg)
 
 
 # Ionic Push notifications
