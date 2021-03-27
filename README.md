@@ -98,6 +98,7 @@
 2. [Sendbird chat and calls](https://sendbird.com/features/chat-messaging)
 3. [talkjs](https://talkjs.com/)
 4. [Stream, chat and push notifications](https://getstream.io/)
+5. [pubnub.com supports char and push notifications](https://www.pubnub.com/pricing/)
 
 
 # Ionic Push notifications
