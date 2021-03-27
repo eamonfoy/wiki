@@ -105,5 +105,6 @@
 # Ionic Push notifications
 1. [How to implement Firebase Push notifications in Ionic 5](https://enappd.com/blog/how-to-implement-firebase-push-notifications-in-ionic-apps/157/)
 
-
+# Redis
+1. [Redis cluster running on swarm](https://collabnix.com/getting-started-with-redis-inside-docker-container-in-2-minutes/)
 
