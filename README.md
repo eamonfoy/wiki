@@ -27,6 +27,7 @@
 
 7. [Smaller Docker Images for ASP.NET Core Apps](https://itnext.io/smaller-docker-images-for-asp-net-core-apps-bee4a8fd1277)
 8. [How to maintain Session Persistence (Sticky Session) in Docker Swarm](http://littlebigextra.com/how-to-maintain-session-persistence-sticky-session-in-docker-swarm-with-multiple-containers/)
+9. [How to deploy on remote Docker hosts with docker-compose](https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/)
 
 
 # SSL
