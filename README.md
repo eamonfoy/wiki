@@ -102,7 +102,7 @@
 4. [Stream, chat and push notifications](https://getstream.io/)
 5. [pubnub.com supports char and push notifications](https://www.pubnub.com/pricing/)
 6. [Video call with WebRTC Angular and ASP.NET Core ](https://dev.to/sebalr/video-call-with-webrtc-angular-and-asp-net-core-39hg)
-
+7. [zulip](https://zulip.com/features/)
 
 # Ionic Push notifications
 1. [How to implement Firebase Push notifications in Ionic 5](https://enappd.com/blog/how-to-implement-firebase-push-notifications-in-ionic-apps/157/)
