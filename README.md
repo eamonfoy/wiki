@@ -111,3 +111,5 @@
 # Redis
 1. [Redis cluster running on swarm](https://collabnix.com/getting-started-with-redis-inside-docker-container-in-2-minutes/)
 
+# SonarQube
+1. [Code Analysis with SonarQube + Docker + .NET Core](https://medium.com/@thiagoloureiro/code-analysis-with-sonarqube-docker-net-core-aee521ee8931)
