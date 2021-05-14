@@ -113,3 +113,8 @@
 
 # SonarQube
 1. [Code Analysis with SonarQube + Docker + .NET Core](https://medium.com/@thiagoloureiro/code-analysis-with-sonarqube-docker-net-core-aee521ee8931)
+
+
+# Monitoring in azure
+1. [Monitoring Docker containers on a stand-alone Linux host with Azure Log Analytics](https://medium.com/@stephaniefvisser/monitoring-docker-containers-on-a-stand-alone-linux-host-with-azure-log-analytics-f564b4e21dcc)
+
