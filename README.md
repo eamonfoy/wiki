@@ -118,3 +118,7 @@
 # Monitoring in azure
 1. [Monitoring Docker containers on a stand-alone Linux host with Azure Log Analytics](https://medium.com/@stephaniefvisser/monitoring-docker-containers-on-a-stand-alone-linux-host-with-azure-log-analytics-f564b4e21dcc)
 
+# azure sql
+1. [Tutorial: Build an ASP.NET Core and Azure SQL Database app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?pivots=platform-linux)
+
+
