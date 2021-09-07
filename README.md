@@ -1,14 +1,12 @@
 # Ansible
-
 1. [Installing Docker and Docker Compose on Ubuntu 20.04 with Ansible](https://graspingtech.com/install-docker-ansible/)
-
 2. [How to install and configure Ansible on Ubuntu 20.04 LTS](https://www.unixmen.com/how-to-install-and-configure-ansible-on-ubuntu-20-04-lts/)
-
 3. [Automatic deployment of a Docker Compose stack using Ansible ](https://www.codenotary.com/blog/automatic-deployment-of-a-docker-compose-stack-using-ansible/)
+4. [Simplifying Terraform Deployments with Ansible - Part 1](https://thecloudblog.net/post/simplifying-terraform-deployments-with-ansible-part-1/)
+5. [Simplifying Terraform Deployments with Ansible - Part 2](https://thecloudblog.net/post/simplifying-terraform-deployments-with-ansible-part-2/) 
 
 
 # ELK Stack
-
 1. [ELK stack using Docker Compose](https://medium.com/faun/elk-stack-using-docker-compose-99d36a22a83c)
 
 
@@ -128,5 +126,10 @@
 
 # Azure sql
 1. [Tutorial: Build an ASP.NET Core and Azure SQL Database app in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?pivots=platform-linux)
+
+
+# Electron app Signing
+1 [How to Code Sign an Electron App for Windows](https://interactiveknowledge.com/insights/how-code-sign-electron-app-windows)
+
 
 
