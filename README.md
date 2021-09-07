@@ -4,6 +4,7 @@
 3. [Automatic deployment of a Docker Compose stack using Ansible ](https://www.codenotary.com/blog/automatic-deployment-of-a-docker-compose-stack-using-ansible/)
 4. [Simplifying Terraform Deployments with Ansible - Part 1](https://thecloudblog.net/post/simplifying-terraform-deployments-with-ansible-part-1/)
 5. [Simplifying Terraform Deployments with Ansible - Part 2](https://thecloudblog.net/post/simplifying-terraform-deployments-with-ansible-part-2/) 
+6. [Let’s do DevOps: Build an Azure DevOps Terraform Pipeline Part 2/2](https://faun.pub/lets-do-devops-build-an-azure-devops-terraform-pipeline-part-2-2-d3516f47286)
 
 
 # ELK Stack
