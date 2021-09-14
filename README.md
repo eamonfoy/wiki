@@ -133,5 +133,6 @@
 # Electron app Signing
 1 [How to Code Sign an Electron App for Windows](https://interactiveknowledge.com/insights/how-code-sign-electron-app-windows)
 
-
+# Microsoft ADFS
+1. [AD FS OpenID Connect/OAuth Concepts](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/ad-fs-openid-connect-oauth-concepts)
 
