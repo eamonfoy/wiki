@@ -137,4 +137,5 @@
 1. [AD FS OpenID Connect/OAuth Concepts](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/ad-fs-openid-connect-oauth-concepts)
 2. [Customize claims to be emitted in id_token when using OpenID Connect or OAuth with AD FS 2016 or later](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/custom-id-tokens-in-ad-fs)
 3. [Customize claims to be emitted in id_token when using OpenID Connect or OAuth with AD FS 2016 or later](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/custom-id-tokens-in-ad-fs)
+4. [Build a single page web application using OAuth and ADAL.JS with AD FS 2016 or later](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/single-page-application-with-ad-fs)
 
