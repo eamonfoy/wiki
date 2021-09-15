@@ -139,3 +139,7 @@
 3. [Customize claims to be emitted in id_token when using OpenID Connect or OAuth with AD FS 2016 or later](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/custom-id-tokens-in-ad-fs)
 4. [Build a single page web application using OAuth and ADAL.JS with AD FS 2016 or later](https://docs.microsoft.com/en-us/windows-server/identity/ad-fs/development/single-page-application-with-ad-fs)
 
+# Azure webapp
+1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
+2. [Continuous deployment with custom containers in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/deploy-ci-cd-custom-container?tabs=acr&pivots=container-linux)
+
