@@ -5,7 +5,7 @@
 4. [Simplifying Terraform Deployments with Ansible - Part 1](https://thecloudblog.net/post/simplifying-terraform-deployments-with-ansible-part-1/)
 5. [Simplifying Terraform Deployments with Ansible - Part 2](https://thecloudblog.net/post/simplifying-terraform-deployments-with-ansible-part-2/) 
 6. [Let’s do DevOps: Build an Azure DevOps Terraform Pipeline Part 2/2](https://faun.pub/lets-do-devops-build-an-azure-devops-terraform-pipeline-part-2-2-d3516f47286)
-
+7. [Run Anisble Playbook From Azure Devops Release Pipeline](https://dzone.com/articles/run-anisble-playbook-from-azure-devops-release-pip)
 
 # ELK Stack
 1. [ELK stack using Docker Compose](https://medium.com/faun/elk-stack-using-docker-compose-99d36a22a83c)
