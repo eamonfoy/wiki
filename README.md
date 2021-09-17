@@ -143,3 +143,7 @@
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
 2. [Continuous deployment with custom containers in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/deploy-ci-cd-custom-container?tabs=acr&pivots=container-linux)
 
+# Kubernetes
+1. [Kubernetes Angular ASP.NET Core Microservice Architecture](https://levelup.gitconnected.com/kubernetes-angular-asp-net-core-microservice-architecture-c46fc66ede44)
+
+
