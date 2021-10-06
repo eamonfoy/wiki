@@ -31,7 +31,7 @@
 
 # SSL
 1. [Docker-Powered Web Development Utilizing HTTPS and Local Domain Names](https://betterprogramming.pub/docker-powered-web-development-utilizing-https-and-local-domain-names-a57f129e1c4d)
-
+2. [Hosting an ASP.NET Core App on Docker with HTTPS](https://codeburst.io/hosting-an-asp-net-core-app-on-docker-with-https-642cde4f04e8)
 
 # SignalR
 
