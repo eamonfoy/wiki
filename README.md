@@ -145,5 +145,5 @@
 
 # Kubernetes
 1. [Kubernetes Angular ASP.NET Core Microservice Architecture](https://levelup.gitconnected.com/kubernetes-angular-asp-net-core-microservice-architecture-c46fc66ede44)
-
+2. [Azure — Deploying Angular App With .NET Web API on AKS](https://medium.com/bb-tutorials-and-thoughts/azure-deploying-angular-app-with-net-web-api-on-aks-1c7e9a66de39)
 
