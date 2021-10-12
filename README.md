@@ -151,4 +151,4 @@
 # Asp.net core https and certificates
 1. [ASP .NET Core with HTTPS in Docker](https://www.programmingwithwolfgang.com/asp-net-core-with-https-in-docker/)
 2. [Hosting ASP.NET Core images with Docker over HTTPS](https://docs.microsoft.com/en-us/aspnet/core/security/docker-https?view=aspnetcore-5.0)
-
+3. [Docker : ASP.NET Core container and HTTPS](https://www.vivienfabing.com/docker/2019/10/03/docker-aspnetcore-container-and-https.html)
