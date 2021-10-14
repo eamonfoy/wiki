@@ -153,3 +153,6 @@
 2. [Hosting ASP.NET Core images with Docker over HTTPS](https://docs.microsoft.com/en-us/aspnet/core/security/docker-https?view=aspnetcore-5.0)
 3. [Docker : ASP.NET Core container and HTTPS](https://www.vivienfabing.com/docker/2019/10/03/docker-aspnetcore-container-and-https.html)
 4. [Hosting an ASP.NET Core App on Docker with HTTPS](https://codeburst.io/hosting-an-asp-net-core-app-on-docker-with-https-642cde4f04e8)
+
+# asp.net core Event sourcing
+1. [A Fast and Lightweight Solution for CQRS and Event Sourcing](https://www.codeproject.com/Articles/5264244/A-Fast-and-Lightweight-Solution-for-CQRS-and-Event)
