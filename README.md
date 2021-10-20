@@ -156,3 +156,7 @@
 
 # asp.net core Event sourcing
 1. [A Fast and Lightweight Solution for CQRS and Event Sourcing](https://www.codeproject.com/Articles/5264244/A-Fast-and-Lightweight-Solution-for-CQRS-and-Event)
+
+# Embed Rocket Chat in to your web app
+1. [Integrate Perfect Chat System to Your Project in 2 Steps](https://medium.com/@ahmetmermerkaya/integrate-perfect-chat-system-to-your-project-in-2-steps-3785f29dc892)
+
