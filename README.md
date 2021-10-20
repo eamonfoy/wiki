@@ -160,3 +160,9 @@
 # Embed Rocket Chat in to your web app
 1. [Integrate Perfect Chat System to Your Project in 2 Steps](https://medium.com/@ahmetmermerkaya/integrate-perfect-chat-system-to-your-project-in-2-steps-3785f29dc892)
 
+
+# Keycloak
+1. [Using Custom User Providers with Keycloak](https://www.baeldung.com/java-keycloak-custom-user-providers)
+
+
+
