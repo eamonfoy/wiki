@@ -163,6 +163,6 @@
 
 # Keycloak
 1. [Using Custom User Providers with Keycloak](https://www.baeldung.com/java-keycloak-custom-user-providers)
-
+2. [ASP.Net Core & Angular OpenID Connect using Keycloak](https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008)
 
 
