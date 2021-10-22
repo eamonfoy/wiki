@@ -165,4 +165,4 @@
 1. [Using Custom User Providers with Keycloak](https://www.baeldung.com/java-keycloak-custom-user-providers)
 2. [ASP.Net Core & Angular OpenID Connect using Keycloak](https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008)
 3. [Integrating OpenID Connect to your application stack (Asp.Net Core, Angular)](https://dev.to/kayesislam/integrating-openid-connect-to-your-application-stack-25ch)
-
+4. [Tutorial: Making a Rocket.Chat App](https://rocket.chat/blog/tutorial-making-a-rocket-chat-app)
