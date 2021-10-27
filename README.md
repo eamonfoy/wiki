@@ -167,3 +167,4 @@
 3. [Integrating OpenID Connect to your application stack (Asp.Net Core, Angular)](https://dev.to/kayesislam/integrating-openid-connect-to-your-application-stack-25ch)
 4. [Tutorial: Making a Rocket.Chat App](https://rocket.chat/blog/tutorial-making-a-rocket-chat-app)
 5. [Keycloak introduction from trhe makers of keycloak](https://www.youtube.com/watch?v=duawSV69LDI)
+6. [Keycloak Deep Dive](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
