@@ -168,3 +168,4 @@
 4. [Tutorial: Making a Rocket.Chat App](https://rocket.chat/blog/tutorial-making-a-rocket-chat-app)
 5. [Keycloak introduction from trhe makers of keycloak](https://www.youtube.com/watch?v=duawSV69LDI)
 6. [Keycloak Deep Dive](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
+7. [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
