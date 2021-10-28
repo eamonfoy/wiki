@@ -169,3 +169,4 @@
 5. [Keycloak introduction from trhe makers of keycloak](https://www.youtube.com/watch?v=duawSV69LDI)
 6. [Keycloak Deep Dive](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
 7. [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
+8. [Create and configure Keycloak OAuth 2.0 authorization server](https://wkrzywiec.medium.com/create-and-configure-keycloak-oauth-2-0-authorization-server-f75e2f6f6046)
