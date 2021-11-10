@@ -176,6 +176,7 @@
 
 # Helm
 1. [Helm introduction](https://matthewpalmer.net/kubernetes-app-developer/articles/helm-kubernetes-video-tutorial.html)
+2. [](https://www.youtube.com/watch?v=TJ9hPLn0oAs)
 
 # NFS
 1. [Setup a NFS Server With Docker](https://blog.ruanbekker.com/blog/2020/09/20/setup-a-nfs-server-with-docker/)
