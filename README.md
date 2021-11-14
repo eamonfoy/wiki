@@ -95,6 +95,7 @@
 # OpenID Connect & OAuth 2.0
 1. [OpenID Connect & OAuth 2.0 – Security Best Practices - Dominick Baier](https://www.youtube.com/watch?v=jeRALmfyoqg)
 2. [JWT Auth in ASP.NET Core](https://codeburst.io/jwt-auth-in-asp-net-core-148fb72bed03)
+3. [Azure Active Directory B2C With PKCE for Your Angular App](https://dev.to/yuriburger/azure-active-directory-b2c-with-pkce-for-your-angular-app-1dcg)
 
 # Chat, voice chat options
 1. [cometchat](https://www.cometchat.com/pro-pricing)
