@@ -148,6 +148,7 @@
 1. [Kubernetes Angular ASP.NET Core Microservice Architecture](https://levelup.gitconnected.com/kubernetes-angular-asp-net-core-microservice-architecture-c46fc66ede44)
 2. [Azure — Deploying Angular App With .NET Web API on AKS](https://medium.com/bb-tutorials-and-thoughts/azure-deploying-angular-app-with-net-web-api-on-aks-1c7e9a66de39)
 3. [Kubernetes Angular ASP.NET Core Microservice Architecture](https://levelup.gitconnected.com/kubernetes-angular-asp-net-core-microservice-architecture-c46fc66ede44)
+4. [5 Ways to Install K3s](https://www.youtube.com/watch?v=O3s3YoPesKs)
 
 # Asp.net core https and certificates
 1. [ASP .NET Core with HTTPS in Docker](https://www.programmingwithwolfgang.com/asp-net-core-with-https-in-docker/)
