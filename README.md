@@ -187,3 +187,7 @@
 
 # Init Container
 1. [Kubernetes - Trying to create pod with init container](https://stackoverflow.com/questions/55340592/kubernetes-trying-to-create-pod-with-init-container)
+
+# Cert Manager
+1. [Creating Self Signed Certificates on Kubernetes](https://tech.paulcz.net/blog/creating-self-signed-certs-on-kubernetes/)
+
