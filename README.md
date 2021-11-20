@@ -177,9 +177,6 @@
 9. [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
 
 
-# Kubernetes
-1. [5 Ways to Install K3s](https://www.youtube.com/watch?v=O3s3YoPesKs)
-
 # Helm
 1. [Helm introduction](https://matthewpalmer.net/kubernetes-app-developer/articles/helm-kubernetes-video-tutorial.html)
 2. [Create a Helm chart](https://www.youtube.com/watch?v=TJ9hPLn0oAs)
