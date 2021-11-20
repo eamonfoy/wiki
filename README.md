@@ -192,3 +192,6 @@
 1. [Creating Self Signed Certificates on Kubernetes](https://tech.paulcz.net/blog/creating-self-signed-certs-on-kubernetes/)
 2. [Setting up HTTPS with cert-manager (self-signed, LetsEncrypt) in kubernetes](https://someweb.github.io/devops/cert-manager-kubernetes/)
 
+# Microservices development
+1. [Microservices Made Easier](https://www.youtube.com/watch?v=u80gy8-Wgcs)
+2. 
