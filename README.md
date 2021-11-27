@@ -143,6 +143,8 @@
 # Microsoft Azure AD
 1. [Azure AD – Adding EmployeeID claims in Azure AD JWT token](https://renouncedthoughts.wordpress.com/2018/10/30/azure-ad-adding-employeeid-claims-in-azure-ad-jwt-token/)
 2. [Azure AD – Adding Employeeid claims in Azure AD JWT token](https://www.devonblog.com/cloud/azure-ad-adding-employeeid-claims-in-azure-ad-jwt-token/)
+3. [Customising Azure AD JWT Claim Token](https://ssrikantan.github.io/blog/2020/02/28/az-ad-jwt-token-custom-attribs)
+
 
 # Azure webapp
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
