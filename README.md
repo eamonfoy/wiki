@@ -157,6 +157,8 @@
 4. [5 Ways to Install K3s](https://www.youtube.com/watch?v=O3s3YoPesKs)
 5. [Create an HTTPS ingress controller and use your own TLS certificates on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/ingress-own-tls)
 6. [Create an HTTPS ingress controller on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/ingress-tls?tabs=azure-cli)
+7. [Getting Started with Terraform and AKS: a Step-by-Step Guide to Deploying Your First Cluster](https://www.fairwinds.com/blog/getting-started-with-terraform-and-aks-a-step-by-step-guide-to-deploying-your-first-cluster)
+8. [*Use Terraform to Create and Manage a HA AKS Kubernetes Cluster in Azure*](https://codersociety.com/blog/articles/terraform-azure-kubernetes)
 
 # Asp.net core https and certificates
 1. [ASP .NET Core with HTTPS in Docker](https://www.programmingwithwolfgang.com/asp-net-core-with-https-in-docker/)
