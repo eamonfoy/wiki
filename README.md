@@ -208,3 +208,6 @@
  
 # Asp.net core Caching
 1. [In-Memory and Distributed cache (.NET Core)](https://blog.devgenius.io/in-memory-and-distributed-cache-net-core-9be16bec34d7)
+
+# Keycloak
+1. [This is docker-compose setup for Keycloak server configured with postgres database, with nginx https termination and lightweight mail server.](https://github.com/trajakovic/keycloak-docker-compose)
