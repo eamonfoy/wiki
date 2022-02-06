@@ -37,7 +37,6 @@
 
 1. [Integration Testing of Real-time communication in ASP.NET Core (using Kestrel and SignalR)](https://www.dotnetcurry.com/aspnet-core/1519/integration-testing-signalr-kestrel)
 
-
 2. [Café is an example application demonstrating a combination between domain-driven design and functional programming.](https://github.com/dnikolovv/cafe) 
    - Features
    - DDD done by the book
@@ -63,7 +62,7 @@
 2. [IdentityServer4: Building a Simple Token Server and Protecting Your ASP.NET Core APIs with JWT](https://vmsdurano.com/apiboilerplate-and-identityserver4-access-control-for-apis/)
 
 3. [IdentityServer4 Admin UI from Skoruba.IdentityServer4.Admin Template](https://medium.com/scrum-and-coke/identityserver4-admin-ui-from-skoruba-template-84bd33bb9533)
-
+4. [Secure Angular 11 with JWT and IdentityServer4 Admin UI](https://medium.com/scrum-and-coke/secure-angular-with-identityserver4-admin-ui-5dd163ff1434)
 
 # Certificates
 1. [CERTIFICATE AUTHENTICATION IN ASP.NET CORE 3.1](https://damienbod.com/2019/06/13/certificate-authentication-in-asp-net-core-3-0/)
@@ -169,23 +168,11 @@
 # asp.net core Event sourcing
 1. [A Fast and Lightweight Solution for CQRS and Event Sourcing](https://www.codeproject.com/Articles/5264244/A-Fast-and-Lightweight-Solution-for-CQRS-and-Event)
 
+# Asp.net core Caching
+1. [In-Memory and Distributed cache (.NET Core)](https://blog.devgenius.io/in-memory-and-distributed-cache-net-core-9be16bec34d7)
+
 # Embed Rocket Chat in to your web app
 1. [Integrate Perfect Chat System to Your Project in 2 Steps](https://medium.com/@ahmetmermerkaya/integrate-perfect-chat-system-to-your-project-in-2-steps-3785f29dc892)
-
-
-# Keycloak
-1. [Using Custom User Providers with Keycloak](https://www.baeldung.com/java-keycloak-custom-user-providers)
-2. [ASP.Net Core & Angular OpenID Connect using Keycloak](https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008)
-3. [Integrating OpenID Connect to your application stack (Asp.Net Core, Angular)](https://dev.to/kayesislam/integrating-openid-connect-to-your-application-stack-25ch)
-4. [Tutorial: Making a Rocket.Chat App](https://rocket.chat/blog/tutorial-making-a-rocket-chat-app)
-5. [Keycloak introduction from trhe makers of keycloak](https://www.youtube.com/watch?v=duawSV69LDI)
-6. [Keycloak Deep Dive](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
-7. [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
-8. [Create and configure Keycloak OAuth 2.0 authorization server](https://wkrzywiec.medium.com/create-and-configure-keycloak-oauth-2-0-authorization-server-f75e2f6f6046)
-
-# Angular Sample apps
-9. [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
-
 
 # Helm
 1. [Helm introduction](https://matthewpalmer.net/kubernetes-app-developer/articles/helm-kubernetes-video-tutorial.html)
@@ -206,8 +193,19 @@
 # Microservices development
 1. [Microservices Made Easier](https://www.youtube.com/watch?v=u80gy8-Wgcs)
  
-# Asp.net core Caching
-1. [In-Memory and Distributed cache (.NET Core)](https://blog.devgenius.io/in-memory-and-distributed-cache-net-core-9be16bec34d7)
 
 # Keycloak
-1. [This is docker-compose setup for Keycloak server configured with postgres database, with nginx https termination and lightweight mail server.](https://github.com/trajakovic/keycloak-docker-compose)
+1. [Using Custom User Providers with Keycloak](https://www.baeldung.com/java-keycloak-custom-user-providers)
+2. [ASP.Net Core & Angular OpenID Connect using Keycloak](https://medium.com/@xavier.hahn/asp-net-core-angular-openid-connect-using-keycloak-6437948c008)
+3. [Integrating OpenID Connect to your application stack (Asp.Net Core, Angular)](https://dev.to/kayesislam/integrating-openid-connect-to-your-application-stack-25ch)
+4. [Tutorial: Making a Rocket.Chat App](https://rocket.chat/blog/tutorial-making-a-rocket-chat-app)
+5. [Keycloak introduction from trhe makers of keycloak](https://www.youtube.com/watch?v=duawSV69LDI)
+6. [Keycloak Deep Dive](https://www.youtube.com/watch?v=XJYy6Aq-PJ8)
+7. [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
+8. [Create and configure Keycloak OAuth 2.0 authorization server](https://wkrzywiec.medium.com/create-and-configure-keycloak-oauth-2-0-authorization-server-f75e2f6f6046)
+9. [This is docker-compose setup for Keycloak server configured with postgres database, with nginx https termination and lightweight mail server.](https://github.com/trajakovic/keycloak-docker-compose)
+
+# Angular Sample apps
+9. [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
+
+
