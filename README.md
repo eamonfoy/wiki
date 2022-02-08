@@ -204,6 +204,7 @@
 7. [Step-by-step guide how integrate Keycloak with Angular application](https://wkrzywiec.medium.com/step-by-step-guide-how-integrate-keycloak-with-angular-application-d96b05f7dfdd)
 8. [Create and configure Keycloak OAuth 2.0 authorization server](https://wkrzywiec.medium.com/create-and-configure-keycloak-oauth-2-0-authorization-server-f75e2f6f6046)
 9. [This is docker-compose setup for Keycloak server configured with postgres database, with nginx https termination and lightweight mail server.](https://github.com/trajakovic/keycloak-docker-compose)
+10. [Installing Keycloak on Kubernetes](https://www.talkingquickly.co.uk/installing-keycloak-kubernetes-helm)
 
 # Angular Sample apps
 9. [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
