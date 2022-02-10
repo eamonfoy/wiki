@@ -213,4 +213,5 @@
 # Angular Sample apps
 9. [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
 
-
+# NestJS
+1. [Building a REST API with NestJS and Prisma - Marc Stammerjohann | Prisma Day 2021](https://www.youtube.com/watch?v=mmbd5hcQUaY&t=3224)
