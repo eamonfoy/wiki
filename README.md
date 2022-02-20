@@ -27,7 +27,7 @@
 7. [Smaller Docker Images for ASP.NET Core Apps](https://itnext.io/smaller-docker-images-for-asp-net-core-apps-bee4a8fd1277)
 8. [How to maintain Session Persistence (Sticky Session) in Docker Swarm](http://littlebigextra.com/how-to-maintain-session-persistence-sticky-session-in-docker-swarm-with-multiple-containers/)
 9. [How to deploy on remote Docker hosts with docker-compose](https://www.docker.com/blog/how-to-deploy-on-remote-docker-hosts-with-docker-compose/)
-
+10. [How To Replace Docker With nerdctl And Rancher Desktop](https://www.youtube.com/watch?v=evWPib0iNgY&t=111s)
 
 # SSL
 1. [Docker-Powered Web Development Utilizing HTTPS and Local Domain Names](https://betterprogramming.pub/docker-powered-web-development-utilizing-https-and-local-domain-names-a57f129e1c4d)
@@ -165,6 +165,8 @@
 9. [External-DNS with Azure Kubernetes Service and Azure DNS](https://www.thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)
 10. [Should We Replace Docker Desktop With Rancher Desktop](https://www.youtube.com/watch?v=bYVfCp9dRTE)
 11. [Rancher Desktop](https://docs.rancherdesktop.io/)
+12. [How To Replace Docker With nerdctl And Rancher Desktop](https://www.youtube.com/watch?v=evWPib0iNgY&t=111s)
+
 
 # Asp.net core https and certificates
 1. [ASP .NET Core with HTTPS in Docker](https://www.programmingwithwolfgang.com/asp-net-core-with-https-in-docker/)
