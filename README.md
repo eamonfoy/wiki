@@ -164,6 +164,7 @@
 8. [*Use Terraform to Create and Manage a HA AKS Kubernetes Cluster in Azure*](https://codersociety.com/blog/articles/terraform-azure-kubernetes)
 9. [External-DNS with Azure Kubernetes Service and Azure DNS](https://www.thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)
 10. [Should We Replace Docker Desktop With Rancher Desktop](https://www.youtube.com/watch?v=bYVfCp9dRTE)
+11. [Rancher Desktop](https://docs.rancherdesktop.io/)
 
 # Asp.net core https and certificates
 1. [ASP .NET Core with HTTPS in Docker](https://www.programmingwithwolfgang.com/asp-net-core-with-https-in-docker/)
