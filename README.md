@@ -187,6 +187,8 @@
 
 # NFS
 1. [Setup a NFS Server With Docker](https://blog.ruanbekker.com/blog/2020/09/20/setup-a-nfs-server-with-docker/)
+2. [Windows 10 compliant NFS server](https://github.com/winnfsd/winnfsd)
+3. [Windows 10 NFS server](https://www.youtube.com/watch?v=oUjaDKMNteY)
 
 # Init Container
 1. [Kubernetes - Trying to create pod with init container](https://stackoverflow.com/questions/55340592/kubernetes-trying-to-create-pod-with-init-container)
