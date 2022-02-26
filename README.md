@@ -143,7 +143,7 @@
 # Microsoft Azure AD
 1. [Azure AD – Adding EmployeeID claims in Azure AD JWT token](https://renouncedthoughts.wordpress.com/2018/10/30/azure-ad-adding-employeeid-claims-in-azure-ad-jwt-token/)
 2. [Azure AD – Adding Employeeid claims in Azure AD JWT token](https://www.devonblog.com/cloud/azure-ad-adding-employeeid-claims-in-azure-ad-jwt-token/)
-3. [Customising Azure AD JWT Claim Token](https://ssrikantan.github.io/blog/2020/02/28/az-ad-jwt-token-custom-attribs)
+3. [--> Customising Azure AD JWT Claim Token](https://ssrikantan.github.io/blog/2020/02/28/az-ad-jwt-token-custom-attribs)
 4. [Adding custom attributes to the Azure AD OpenID Connect ID Token](https://goodworkaround.com/2019/11/15/adding-custom-attributes-to-the-azure-ad-openid-connect-id-token/)
 5. [Full IGA using Azure AD – App roles in OAuth ID token or SAML claim](https://goodworkaround.com/2019/11/01/full-iga-using-azure-ad-app-roles-in-id-token/)
 6. [Full IGA using Azure AD – Custom app roles](https://goodworkaround.com/2019/10/18/full-iga-using-azure-ad-custom-app-roles/)
