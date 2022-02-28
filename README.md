@@ -1,5 +1,5 @@
 # Misc
-1. [Creating your own self signed certs and using your own generated CA]()
+1. [Creating your own self signed certs and using your own generated CA](self-signed-certs.md)
 
 
 # Ansible
