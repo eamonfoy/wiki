@@ -1,3 +1,7 @@
+# Misc
+1. [Creating your own self signed certs and using your own generated CA]()
+
+
 # Ansible
 1. [Installing Docker and Docker Compose on Ubuntu 20.04 with Ansible](https://graspingtech.com/install-docker-ansible/)
 2. [How to install and configure Ansible on Ubuntu 20.04 LTS](https://www.unixmen.com/how-to-install-and-configure-ansible-on-ubuntu-20-04-lts/)
