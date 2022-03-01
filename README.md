@@ -152,6 +152,7 @@
 5. [Full IGA using Azure AD – App roles in OAuth ID token or SAML claim](https://goodworkaround.com/2019/11/01/full-iga-using-azure-ad-app-roles-in-id-token/)
 6. [Full IGA using Azure AD – Custom app roles](https://goodworkaround.com/2019/10/18/full-iga-using-azure-ad-custom-app-roles/)
 7. [Tutorial: Sign in users and call the Microsoft Graph API from a JavaScript single-page application (SPA)](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-javascript-spa)
+8. [Configure authentication in a sample Angular single-page application by using Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-angular-spa-app)
 
 
 # Azure webapp
