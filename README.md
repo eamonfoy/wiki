@@ -151,6 +151,7 @@
 4. [Adding custom attributes to the Azure AD OpenID Connect ID Token](https://goodworkaround.com/2019/11/15/adding-custom-attributes-to-the-azure-ad-openid-connect-id-token/)
 5. [Full IGA using Azure AD – App roles in OAuth ID token or SAML claim](https://goodworkaround.com/2019/11/01/full-iga-using-azure-ad-app-roles-in-id-token/)
 6. [Full IGA using Azure AD – Custom app roles](https://goodworkaround.com/2019/10/18/full-iga-using-azure-ad-custom-app-roles/)
+7. [Tutorial: Sign in users and call the Microsoft Graph API from a JavaScript single-page application (SPA)](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-javascript-spa)
 
 
 # Azure webapp
