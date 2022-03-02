@@ -227,6 +227,7 @@
 12. [Kubernetes at home - Part 6: Keycloak authentication and Azure Active Directory](https://www.olivercoding.com/2021-01-17-kubernetes-keycloak-realm/)
 13. [How to Add Custom Claims to JWT Tokens from an External Source in Keycloak](https://medium.com/@pavithbuddhima/how-to-add-custom-claims-to-jwt-tokens-from-an-external-source-in-keycloak-52bd1ff596d3)
 14. [Using Custom User Providers with Keycloak](https://www.baeldung.com/java-keycloak-custom-user-providers)
+15. [Keycloak — Using alternative databases](https://medium.com/@victor.boaventura/keycloak-using-alternative-databases-e2b13576c457)
 
 
 # Angular Sample apps
