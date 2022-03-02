@@ -225,6 +225,8 @@
 10. [Installing Keycloak on Kubernetes](https://www.talkingquickly.co.uk/installing-keycloak-kubernetes-helm)
 11. [Kubernetes at home - Part 5: Keycloak for authentication](https://www.olivercoding.com/2021-01-16-kubernetes-keycloak/)
 12. [Kubernetes at home - Part 6: Keycloak authentication and Azure Active Directory](https://www.olivercoding.com/2021-01-17-kubernetes-keycloak-realm/)
+13. [How to Add Custom Claims to JWT Tokens from an External Source in Keycloak](https://medium.com/@pavithbuddhima/how-to-add-custom-claims-to-jwt-tokens-from-an-external-source-in-keycloak-52bd1ff596d3)
+14. 
 
 
 # Angular Sample apps
