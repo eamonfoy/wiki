@@ -156,6 +156,7 @@
 9. [Video - Azure AD Sample Application | Custom Claims with Extension Attributes](https://www.youtube.com/watch?v=fxWAwCmle6A)
 10. [Video - Custom Claims in Azure Active Directory | Claims Mapping Policy](https://www.youtube.com/watch?v=4wmKLAPvU6c)
 11. [Youtube channel for Concepts Work talking about all things Azure AD ](https://www.youtube.com/c/ConceptsWork/featured)
+12. [USING CUSTOM CLAIM MAPPINGS ON DNN AZURE AD MODULE](https://intelequia.com/blog/post/2048/using-custom-claim-mappings-on-dnn-azure-ad-module)
 
 
 # Azure webapp
