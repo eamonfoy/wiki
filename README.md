@@ -153,7 +153,9 @@
 6. [Full IGA using Azure AD – Custom app roles](https://goodworkaround.com/2019/10/18/full-iga-using-azure-ad-custom-app-roles/)
 7. [Tutorial: Sign in users and call the Microsoft Graph API from a JavaScript single-page application (SPA)](https://docs.microsoft.com/en-us/azure/active-directory/develop/tutorial-v2-javascript-spa)
 8. [Configure authentication in a sample Angular single-page application by using Azure Active Directory B2C](https://docs.microsoft.com/en-us/azure/active-directory-b2c/configure-authentication-sample-angular-spa-app) 
-9. 
+9. [Video - Azure AD Sample Application | Custom Claims with Extension Attributes](https://www.youtube.com/watch?v=fxWAwCmle6A)
+10. [Video - Custom Claims in Azure Active Directory | Claims Mapping Policy](https://www.youtube.com/watch?v=4wmKLAPvU6c)
+11. [Youtube channel for Concepts Work talking about all things Azure AD ](https://www.youtube.com/c/ConceptsWork/featured)
 
 
 # Azure webapp
