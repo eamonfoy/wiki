@@ -157,6 +157,8 @@
 10. [Video - Custom Claims in Azure Active Directory | Claims Mapping Policy](https://www.youtube.com/watch?v=4wmKLAPvU6c)
 11. [Youtube channel for Concepts Work talking about all things Azure AD ](https://www.youtube.com/c/ConceptsWork/featured)
 12. [USING CUSTOM CLAIM MAPPINGS ON DNN AZURE AD MODULE](https://intelequia.com/blog/post/2048/using-custom-claim-mappings-on-dnn-azure-ad-module)
+13. [MS Video - Azure AD B2C Webinar Series: Custom Policies Part 1](https://www.youtube.com/watch?v=I-CtEGQjcic)
+14. [Azure AD B2C Webinar Series: Custom Policies Part 2 Policy Walkthrough](https://www.youtube.com/watch?v=KvSSf3bflCk) 
 
 
 # Azure webapp
