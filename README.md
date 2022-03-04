@@ -158,7 +158,8 @@
 11. [Youtube channel for Concepts Work talking about all things Azure AD ](https://www.youtube.com/c/ConceptsWork/featured)
 12. [USING CUSTOM CLAIM MAPPINGS ON DNN AZURE AD MODULE](https://intelequia.com/blog/post/2048/using-custom-claim-mappings-on-dnn-azure-ad-module)
 13. [MS Video - Azure AD B2C Webinar Series: Custom Policies Part 1](https://www.youtube.com/watch?v=I-CtEGQjcic)
-14. [Azure AD B2C Webinar Series: Custom Policies Part 2 Policy Walkthrough](https://www.youtube.com/watch?v=KvSSf3bflCk) 
+14. [MS Video - Azure AD B2C Webinar Series: Custom Policies Part 2 Policy Walkthrough](https://www.youtube.com/watch?v=KvSSf3bflCk) 
+15. [Companion Documentation for the above video for Azure AD B2C Webinar Series on Identity Protocols and Custom policies](https://azure-ad-b2c.github.io/azureadb2ccommunity.io/training/labs/)
 
 
 # Azure webapp
