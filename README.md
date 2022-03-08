@@ -164,6 +164,7 @@
 16. [MS Video - Azure AD B2C Webinar Series: Custom Policies Part 3 Troubleshooting](https://www.youtube.com/watch?v=eFcoRa79FqA)
 17. [MS Azure AD b2c samples](https://github.com/azure-ad-b2c/samples/)
 18. [Tips and tricks for working with custom policies in Azure AD B2C](https://medium.com/the-new-control-plane/tips-and-tricks-for-working-with-custom-policies-in-azure-ad-b2c-eb63b508a075)
+19. [Working with custom attributes in Azure AD B2C custom policies](https://medium.com/the-new-control-plane/working-with-custom-attributes-in-azure-ad-b2c-custom-policies-fae1454b12bf)
 
 # Azure webapp
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
