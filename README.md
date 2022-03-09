@@ -171,6 +171,11 @@
 23. [MS Azure b2c community samples](https://github.com/azure-ad-b2c/samples)
 24. [Secure your IT real-estate with Microsoft Azure AD B2C: Customising User Journeys](https://www.youtube.com/watch?v=i9_A88ksxFk) 
 25. [Source for above video](https://gitlab.com/condatis/Samples/b2c-webinar/-/tree/main)
+26. [Using Azure B2C with An App](https://www.youtube.com/watch?v=RNfJW8Fv10U)
+27. [Authenticating App Users with Azure Active Director](https://youtu.be/cy-6Jt2rzWM)
+28. [Use External Identity Providers (such as Facebook & Google) with Azure AD/Web Apps](https://youtu.be/t6b5qBLls10)
+29. [Setting Up Federation with Azure AD Connect and Active Directory Federated Services (ADFS)](https://youtu.be/-1cNOrlShaw)
+30. [Setting up Azure AD Connect](https://youtu.be/fdlSIEAK5Lw)
 
 # Azure webapp
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
