@@ -170,7 +170,8 @@
 22. [MS B2c full demo's and source code for custom policies](https://aka.ms/aadb2cdemocode)
 23. [MS Azure b2c community samples](https://github.com/azure-ad-b2c/samples)
 24. [Secure your IT real-estate with Microsoft Azure AD B2C: Customising User Journeys](https://www.youtube.com/watch?v=i9_A88ksxFk) 
-25. 
+25. [Source for above video](https://gitlab.com/condatis/Samples/b2c-webinar/-/tree/main)
+
 # Azure webapp
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
 2. [Continuous deployment with custom containers in Azure App Service](https://docs.microsoft.com/en-us/azure/app-service/deploy-ci-cd-custom-container?tabs=acr&pivots=container-linux)
