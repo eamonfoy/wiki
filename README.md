@@ -168,6 +168,7 @@
 20. [Solutions and Training for Azure Active Directory B2C](https://aka.ms/aadb2csolutions)
 21. [MS Solutions and Training Demo Azure AD b2c custom policies](https://aka.ms/aadb2cdemo)
 22. [MS B2c full demo's and source code for custom policies](https://aka.ms/aadb2cdemocode)
+23. [MS Azure b2c community samples](https://github.com/azure-ad-b2c/samples)
  
 # Azure webapp
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
