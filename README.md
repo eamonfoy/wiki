@@ -165,6 +165,9 @@
 17. [MS Azure AD b2c samples](https://github.com/azure-ad-b2c/samples/)
 18. [Tips and tricks for working with custom policies in Azure AD B2C](https://medium.com/the-new-control-plane/tips-and-tricks-for-working-with-custom-policies-in-azure-ad-b2c-eb63b508a075)
 19. [Working with custom attributes in Azure AD B2C custom policies](https://medium.com/the-new-control-plane/working-with-custom-attributes-in-azure-ad-b2c-custom-policies-fae1454b12bf)
+20.[]( h t t p s : / / a k a . m s / a a d b 2 c s o l u t i o n s)
+21. [](h t t p s : / / a k a . m s / a a d b 2 c s o l u t i o n s)
+22. [](h t t p s : / / a k a . m s / a a d b 2 c d e m o h t t p s : / / a k a . m s / a a d b 2 c d e m o c o d e)
 
 # Azure webapp
 1. [Tutorial: Create a multi-container (preview) app in Web App for Containers](https://docs.microsoft.com/en-us/azure/app-service/tutorial-multi-container-app)
