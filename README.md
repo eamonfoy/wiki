@@ -101,6 +101,7 @@
 3. [Azure Active Directory B2C With PKCE for Your Angular App](https://dev.to/yuriburger/azure-active-directory-b2c-with-pkce-for-your-angular-app-1dcg)
 4. [How to authenticate user against Azure ADB2C from Angular app using oidc-client-js.](https://taithienbo.medium.com/how-to-authenticate-user-against-azure-adb2c-from-angular-app-using-oidc-client-js-ffb051177b12)
 5. [SECURING AN ANGULAR APP WHICH USES MULTIPLE IDENTITY PROVIDERS](https://damienbod.com/2021/08/02/securing-an-angular-app-which-uses-multiple-identity-providers/)
+6. [Ory is an open source ecosystem and a cloud offering authentication, authorization, access control, and delegation (OAuth2 & OpenID Connect) services and APIs:](https://www.ory.sh/docs/kratos/quickstart)
 
 # Chat, voice chat options
 1. [cometchat](https://www.cometchat.com/pro-pricing)
