@@ -120,6 +120,11 @@
 2. [Zello](https://zello.com/)
 3. [proptt2](https://www.proptt2.com/en/index.html)
 
+# Rocket.Chat
+1. [Rocket Chat Realtime API in browser](https://stackoverflow.com/questions/50793876/rocket-chat-realtime-api-in-browser)
+2. [Building Real-time Rocket Chat Messaging into a PWA App](https://semantia.com.au/articles/building-real-time-rocket-chat-messaging-in-pwa/)
+3. [Rocket.Chat.Net](https://github.com/Silvenga/Rocket.Chat.Net)
+
 # Ionic Push notifications
 1. [How to implement Firebase Push notifications in Ionic 5](https://enappd.com/blog/how-to-implement-firebase-push-notifications-in-ionic-apps/157/)
 
