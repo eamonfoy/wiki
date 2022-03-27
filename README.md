@@ -197,9 +197,10 @@
 7. [Getting Started with Terraform and AKS: a Step-by-Step Guide to Deploying Your First Cluster](https://www.fairwinds.com/blog/getting-started-with-terraform-and-aks-a-step-by-step-guide-to-deploying-your-first-cluster)
 8. [*Use Terraform to Create and Manage a HA AKS Kubernetes Cluster in Azure*](https://codersociety.com/blog/articles/terraform-azure-kubernetes)
 9. [External-DNS with Azure Kubernetes Service and Azure DNS](https://www.thorsten-hans.com/external-dns-azure-kubernetes-service-azure-dns/)
-10. [Should We Replace Docker Desktop With Rancher Desktop](https://www.youtube.com/watch?v=bYVfCp9dRTE)
+10. [Should We Replace Docker Desktop With Rancher Desktop](https://www.youtube.com/watch?v=bYVfCp9dRTE)https://github.com/techno-tim/k3s-ansible
 11. [Rancher Desktop](https://docs.rancherdesktop.io/)
 12. [How To Replace Docker With nerdctl And Rancher Desktop](https://www.youtube.com/watch?v=evWPib0iNgY&t=111s)
+13. [Automated build of HA k3s Cluster with kube-vip and MetalLB](https://github.com/techno-tim/k3s-ansible)
 
 
 # Asp.net core https and certificates
