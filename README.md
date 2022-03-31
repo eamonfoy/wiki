@@ -263,6 +263,7 @@
 9. [Creating Beautiful Apps with Angular Material](https://auth0.com/blog/creating-beautiful-apps-with-angular-material/)
 10. [Reading Env vars in to an angular app from kubernetes](https://medium.com/codex/update-angular-react-environment-dynamically-reading-variables-from-kubernetes-configmaps-ae32b8d4021c)
 11. [How to use environment variables to configure your Angular application without a rebuild](https://www.jvandemo.com/how-to-use-environment-variables-to-configure-your-angular-application-without-a-rebuild/)
+12. [Using OS Environment Variables in Angular](https://codinglatte.com/posts/angular/using-os-environment-variables-in-angular-with-docker/)
 
 # NestJS
 1. [Building a REST API with NestJS and Prisma - Marc Stammerjohann | Prisma Day 2021](https://www.youtube.com/watch?v=mmbd5hcQUaY&t=3224)
