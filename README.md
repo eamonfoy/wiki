@@ -278,5 +278,7 @@
 7. [Health Checks](https://docs.aspnetzero.com/en/aspnet-core-angular/latest/HealthChecks)
 8. [Health Checks in ASP.Net Core](https://dotnetcorecentral.com/blog/health-checks-in-asp-net-core/)
 9. [Implement Health Checks Middleware in ASP.NET Core](https://rebin.dev/post/implement-health-checks-middleware-in-asp.net-core/)
+10. [Endpoint Monitoring with Azure Application Insights](https://rmauro.dev/endpoint-monitoring-with-azure-application-insights/)https://rmauro.dev/adding-health-checks-ui/
+11. [Adding Health Checks UI](https://rmauro.dev/adding-health-checks-ui/)
  
 
