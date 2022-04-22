@@ -268,3 +268,12 @@
 
 # NestJS
 1. [Building a REST API with NestJS and Prisma - Marc Stammerjohann | Prisma Day 2021](https://www.youtube.com/watch?v=mmbd5hcQUaY&t=3224)
+
+# Asp.net core Health checkshttps://dotnetthoughts.net/implementing-health-check-aspnetcore/tnet-core-health-checks/)
+2. [Checking the Health of Your ASP.NET Core APIs](https://www.telerik.com/blogs/checking-health-aspnet-core-apis)
+3. [Implementing Health Checks in ASP.NET Core](https://dotnetthoughts.net/implementing-health-check-aspnetcore/)
+4. [ASP.NET - Health Checks - Generic Endpoint](https://digitaldrummerj.me/aspnet-core-health-checks-generic-endpoint/)
+5. [QuickStart Health Check Setup in ASP.NET Core 5 Web API](https://dev.to/caiocesar/quickstart-healthcheck-setup-in-asp-net-core-5-web-api-2l30)
+
+7. []()
+
