@@ -274,6 +274,8 @@
 3. [Implementing Health Checks in ASP.NET Core](https://dotnetthoughts.net/implementing-health-check-aspnetcore/)
 4. [ASP.NET - Health Checks - Generic Endpoint](https://digitaldrummerj.me/aspnet-core-health-checks-generic-endpoint/)
 5. [QuickStart Health Check Setup in ASP.NET Core 5 Web API](https://dev.to/caiocesar/quickstart-healthcheck-setup-in-asp-net-core-5-web-api-2l30)
-
-7. []()
+7. [Health Checks](https://docs.aspnetzero.com/en/aspnet-core-angular/latest/HealthChecks)
+8. [Health Checks in ASP.Net Core](https://dotnetcorecentral.com/blog/health-checks-in-asp-net-core/)
+9. [Implement Health Checks Middleware in ASP.NET Core](https://rebin.dev/post/implement-health-checks-middleware-in-asp.net-core/)
+ 
 
